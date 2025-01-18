@@ -1,8 +1,6 @@
 # 👋 Hello, I'm **Shalini**!  
 *I'm a passionate tech enthusiast focusing on Networking and Cybersecurity.*  
 
-![Blue Aesthetic Banner](https://via.placeholder.com/1500x400/1E90FF/FFFFFF?text=Welcome+to+My+Profile) <!-- Replace with a custom banner -->
-
 ---
 
 ## 🚀 About Me
@@ -51,7 +49,7 @@ If you’re working on a cool project or looking for a collaborator, feel free t
 ## 📫 Get in Touch
 
 - 📧 **Email**: [shalinikennady@gmail.com](mailto:shalinikennady@gmail.com)
-- 🌐 **LinkedIn**: (Link unavailable for now)
+- 🌐 **LinkedIn**: [Shalini's LinkedIn](https://www.linkedin.com/in/shalini-j-36b477284)
 
 ---
 
