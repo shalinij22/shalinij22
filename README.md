@@ -40,7 +40,7 @@ I'm a **coffee aficionado** and a **passionate learner** who loves exploring new
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinij22E&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinij22&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
